@@ -1,1 +1,6 @@
-"# mi_primer_repositorio en programacion 2" 
+"# Mi primer repositorio en programacion 2" 
+-
+Nombre : Luis Alvarenga
+-
+No. Cuenta : 62511532
+-
